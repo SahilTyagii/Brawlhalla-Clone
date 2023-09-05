@@ -112,3 +112,9 @@ h4{
 .req-img{
     height: 25rem;
 }
+
+@media (max-width: 1000px){
+    #title{
+        text-align: center;
+    }
+}
