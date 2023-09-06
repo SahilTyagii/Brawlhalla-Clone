@@ -118,3 +118,22 @@ h4{
         text-align: center;
     }
 }
+
+/* Call to action */
+#cta{
+    background-color: #212529;
+    color: aliceblue;
+    text-align: center;
+    padding: 12% 15%;
+}
+#footer{
+    text-align: center;
+    color: #8f8f8f;
+    font-weight: 500;
+    padding: 4%;
+    line-height: 2;
+}
+.footer-logo{
+    color: #212529;
+    margin: 1% 0.7%;
+}
